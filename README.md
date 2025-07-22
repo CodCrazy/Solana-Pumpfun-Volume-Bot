@@ -111,4 +111,4 @@ This is a Pump.fun volume bot that can increase the volume of a specific Pump.fu
 *   **No Guarantees:** This bot interacts with decentralized systems and markets. There are inherent risks. Use at your own discretion and responsibility.
 
 ## Author
-- [TELEGRAM](https://t.me/@hiccup2735)
+- [TELEGRAM](https://t.me/hiccup2735)
